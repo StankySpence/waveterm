@@ -45,7 +45,7 @@
         "@types/ws": "^8",
         "@vitejs/plugin-react-swc": "4.3.1",
         "@vitest/coverage-istanbul": "^3.0.9",
-        "electron": "^41.1.0",
+        "electron": "^42.11.16",
         "electron-builder": "^26.8",
         "electron-vite": "^5.0",
         "eslint": "^9.39",
@@ -65,7 +65,7 @@
         "vite-plugin-image-optimizer": "^2.0.3",
         "vite-plugin-svgr": "^4.5.0",
         "vite-tsconfig-paths": "^5.1.4",
-        "vitest": "^3.0.9"
+        "vitest": "^5.1.0"
     },
     "dependencies": {
         "@ai-sdk/react": "^2.0.104",
@@ -85,7 +85,7 @@
         "ai": "^5.0.92",
         "base64-js": "^1.5.1",
         "clsx": "^2.1.1",
-        "colord": "^2.9.3",
+        "colord": "^2.10.0",
         "css-tree": "^3.2.1",
         "dayjs": "^1.11.19",
         "debug": "^4.4.3",
@@ -96,7 +96,7 @@
         "html-to-image": "^1.11.13",
         "immer": "^10.1.1",
         "jotai": "2.9.3",
-        "mermaid": "^11.15.0",
+        "mermaid": "^11.17.2",
         "monaco-editor": "^0.55.1",
         "monaco-yaml": "^5.5.1",
         "overlayscrollbars": "^2.16.0",
